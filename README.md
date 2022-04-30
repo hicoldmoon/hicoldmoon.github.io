@@ -1,0 +1,2 @@
+# hicoldmoon.github.io
+blog
